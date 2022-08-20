@@ -1,0 +1,26 @@
+{
+  "name": "pertemuan_2",
+  "version": "1.0.0",
+  "description": "sistem informasi PUB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaniHidayatGit/pertemuan_2.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Dani Hidayat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaniHidayatGit/pertemuan_2/issues"
+  },
+  "homepage": "https://github.com/DaniHidayatGit/pertemuan_2#readme",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  },
+  "type": "module"
+}

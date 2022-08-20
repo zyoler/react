@@ -1,0 +1,18 @@
+{
+  "name": "tugas_2",
+  "version": "1.0.0",
+  "description": "tugas_2_pelatihan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Dani Hidayat",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  },
+  "type": "module"
+}
