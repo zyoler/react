@@ -1,4 +1,4 @@
-# Mita tersexy
+# Mita
 
 ---
 
@@ -17,18 +17,18 @@
 
 ### Mita itu
 Ordered list
-1. Sexy
+1. Waw
     1. perfect
     2. Terbaik
 2. Aduhai
-3. Bohay
+3. Wew
 
 Unordered list
-- Sexy
+- Wah
     - Perfect
     - Terbaik
-- Aduhai
-- Bohay
+- Wih
+- Wuh
 
 [Buka file txt ini](55.webp)
 
